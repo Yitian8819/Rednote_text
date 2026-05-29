@@ -1,0 +1,6 @@
+interface:
+  display_name: "Rednote_text"
+  short_description: "生成小红书旅行宣传帖与旅行社软广文案"
+  default_prompt: "Use $rednote-text to turn this travel destination text into Xiaohongshu-style travel agency soft-promo posts."
+policy:
+  allow_implicit_invocation: true
